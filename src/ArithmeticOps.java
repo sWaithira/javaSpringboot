@@ -1,25 +1,23 @@
 
-public class ArithmeticOps {
-    public static void main(String[] args) {
-        int a = 10, b = 3;
+void main() {
+    int a = 10, b = 3;
 
-        System.out.println(" ARITHMETIC: ");
-        System.out.println("a + b = " + (a + b));
-        System.out.println("a - b = " + (a - b));
-        System.out.println("a * b = " + (a * b));
-        System.out.println("a / b = " + (a / b));
-        System.out.println("a % b = " + (a % b));
+    IO.println(" ARITHMETIC: ");
+    IO.println("a + b = " + (a + b));
+    IO.println("a - b = " + (a - b));
+    IO.println("a * b = " + (a * b));
+    IO.println("a / b = " + (a / b));
+    IO.println("a % b = " + (a % b));
 
-        System.out.println("\n RELATIONAL: ");
-        System.out.println("a == b : " + (a == b));
-        System.out.println("a != b : " + (a != b));
-        System.out.println("a >  b : " + (a > b));
-        System.out.println("a <  b : " + (a < b));
+    IO.println("\n RELATIONAL: ");
+    IO.println("a == b : " + (a == b));
+    IO.println("a != b : " + (a != b));
+    IO.println("a >  b : " + (a > b));
+    IO.println("a <  b : " + (a < b));
 
-        System.out.println("\n LOGICAL: ");
-        boolean isAdult = true, hasID = false;
-        System.out.println("isAdult && hasID : " + (isAdult && hasID));
-        System.out.println("isAdult hasID : " + (isAdult || hasID));
-        System.out.println("!isAdult: " + (!isAdult));
-    }
+    IO.println("\n LOGICAL: ");
+    boolean isAdult = true, hasID = false;
+    IO.println("isAdult && hasID : " + (isAdult && hasID));
+    IO.println("isAdult hasID : " + (isAdult || hasID));
+    IO.println("!isAdult: " + (!isAdult));
 }
