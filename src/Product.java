@@ -30,6 +30,7 @@ public static class Product {
 }
 
     public static void main(String[] args) {
+      // hello world
         Product p1 = new Product();
         Product p2 = new Product("Laptop", 85000, 12);
         Product p3 = new Product(p2);
