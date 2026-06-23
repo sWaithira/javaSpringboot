@@ -1,6 +1,5 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
 
@@ -12,8 +11,7 @@ out/
 .settings
 .springBeans
 .sts4-cache
-bin/
-!**/src/main/**/bin/
+bin
 !**/src/test/**/bin/
 
 ### NetBeans ###
