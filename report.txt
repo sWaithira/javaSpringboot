@@ -1,0 +1,8 @@
+Grade Report
+------------
+1. Susan Wanjiku - 88
+2. Alice Mwangi  - 95
+3. Bob Kamau     - 72
+4. Diana Odhiambo- 60
+------------
+Total: 4 students
