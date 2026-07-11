@@ -1,0 +1,2 @@
+Hello Susan!
+Welcome to new Java file.
