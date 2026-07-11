@@ -1,0 +1,4 @@
+Susan Wanjiku - Java
+Alice Mwangi - Python
+Bob Kamau - Spring Boot
+Diana Odhiambo - SQL
